@@ -1,12 +1,10 @@
-👋 Cześć! Jestem Dominik, pasjonuję się programowaniem .NET od ponad roku. Skoncentrowany na rozwijaniu aplikacji webowych przy użyciu platformy .NET oraz jej ekosystemu.
+👋 Hi there! I'm Dominik, passionate about .NET programming for over a year now. Focused on developing web applications using the .NET platform and its ecosystem.
 
-🚀 Aktualnie uczę się i rozwijam umiejętności w zakresie tworzenia skalowalnych aplikacji internetowych w oparciu o ASP.NET Core oraz wykorzystaniu technologii frontendowych, takich jak React oraz TypeScript.
+🚀 Currently, I'm learning and enhancing my skills in building scalable web applications with ASP.NET Core and utilizing frontend technologies like React and TypeScript.
 
-🌱 W mojej podróży programistycznej zawsze staram się być na bieżąco z najnowszymi trendami i praktykami w świecie .NET. Zawsze otwarty na naukę i współpracę!
+🌱 In my programming journey, I always strive to stay up-to-date with the latest trends and practices in the .NET world. Always open to learning and collaboration!
 
-📫 Chętnie podejmuję rozmowy na temat programowania, technologii .NET. Skontaktuj się ze mną tutaj lub na d.ciepiela00@gmail.com
-
-Happy coding! 🚀
+📫 You can reach me here or at d.ciepiela00@gmail.com
 
 <!---
 dciepiela/dciepiela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
